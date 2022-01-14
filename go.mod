@@ -1,4 +1,4 @@
-module loader
+module github.com/jinzhongmin/loader
 
 go 1.17
 
